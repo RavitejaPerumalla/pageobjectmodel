@@ -25,6 +25,7 @@ public class CreateAccountTest {
 		CreateAccountPage cap = account.goToCreateAccounts();
 		cap.createAccount(data.get("accountname"));
 		
+		//Wantly Failing the Testcase
 		Assert.fail("Create account test failed");
 	}
 
