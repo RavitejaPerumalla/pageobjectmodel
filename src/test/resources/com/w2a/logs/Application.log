@@ -1,0 +1,12 @@
+04/11/2020 12:29:25 devpinoyLogger Config file loaded !!!!
+04/11/2020 12:29:25 devpinoyLogger OR file loaded !!!!
+04/11/2020 12:29:58 devpinoyLogger Navigated to : http://www.zoho.com/
+04/11/2020 12:30:08 devpinoyLogger Clicking on an Element : loginlink_CSS
+04/11/2020 12:30:09 devpinoyLogger Typing in an Element : email_CSSentered value as : ravitejaperumalla8@gmail.com
+04/11/2020 12:30:09 devpinoyLogger Clicking on an Element : nextbtn_CSS
+04/11/2020 12:30:11 devpinoyLogger Typing in an Element : password_CSSentered value as : Teja@225
+04/11/2020 12:30:11 devpinoyLogger Clicking on an Element : signinbtn_CSS
+04/11/2020 12:30:26 devpinoyLogger Clicking on an Element : crmlink_CSS
+04/11/2020 12:30:26 devpinoyLogger Clicking on an Element : accountstab_LINKTEXT
+04/11/2020 12:30:28 devpinoyLogger Clicking on an Element : createaccountbtn_CSS
+04/11/2020 12:30:30 devpinoyLogger Typing in an Element : accountname_CSSentered value as : Ravi
